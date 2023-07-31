@@ -1,6 +1,8 @@
 # BL2CK-1.30.4-YS
 Mirror of BL2CK 1.30.4 kernel, with updated infolib.dat and extinfo.dat. This should help previously problematic games like AC:Wild World and others to boot properly on BL2CK.
 
+Also has a slightly edited version of the stock BL2CK theme - Displays `BL2CK Kernel - 1.30.4` on the top screen instead of `R4iNP Kernel - Give You New Feeling`
+
 ## These carts can run the BL2CK kernel:
 - Default version:
   - r4i3d.com NEW, 2012+
